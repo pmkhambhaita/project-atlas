@@ -79,7 +79,7 @@ apps/api/src/
 - Timestamps: `timestamptz` in DB, ISO 8601 UTC strings in API responses
 
 ---
-
+ 
 ## When to use
 
 - Adding new API routes in `apps/api/src/routes/`
